@@ -6,7 +6,7 @@ import "./App.css";
 
 // key: 9a6cb59a
 
-const API_URL = 'http://www.omdbapi.com?apikey=9a6cb59a'
+const API_URL = 'https://www.omdbapi.com?apikey=9a6cb59a'
 
 const App = () => {
     const [searchTerm, setSearchTerm] = useState("");
